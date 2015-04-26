@@ -1,2 +1,2 @@
 # Project-Euler
-Solving the Project Euler Toy Problems
+Solving the Project Euler Problems in Javascript
