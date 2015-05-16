@@ -14,6 +14,8 @@ var evenFibNumbers = function(highestNum){
     return fibSum;
 }
 
+//evenFibNumbers(4000000) --> 4613732
+
 ////////////Helper Functions//////////////
 
 var produceFib = function(highestNum){
